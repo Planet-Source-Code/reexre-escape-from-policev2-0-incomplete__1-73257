@@ -1,0 +1,19 @@
+Verlet based approach for 2D game physics
+
+'Author :Roberto Mior
+'     reexre@gmail.com
+'--------------------------------------------------------------------------------
+'2D convex collision:
+'Original C++ code written by Benedikt Bitterli Copyright (c) 2009 [The code is released under the ZLib/LibPNG license]
+'Original C++ code and tutorial available at links http://www.gamedev.net/reference/programming/features/verletPhys/default.asp
+'http://www.gamedev.net/reference/articles/article2714.asp
+'Forum:
+'http://www.gamedev.net/community/forums/topic.asp?topic_id=553845
+
+'Conversion from C++ to Java done by Craig Mitchell Copyright (c) 2010.
+'Conversion from "C++ & Java" to VB6 done by Roberto Mior Copyright (c) 2010.
+
+'Joints Handler By Roberto Mior
+
+'Car physics and Game by Roberto Mior
+
